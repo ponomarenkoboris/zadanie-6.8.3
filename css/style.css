@@ -1,0 +1,14 @@
+.container{
+    margin-top: 15px;
+}
+.buttons{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+.btn1, .btn2, .btn3{
+    background: tomato;
+    padding-right: 30px;
+    padding-left: 30px;
+    border: none;
+}
